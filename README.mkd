@@ -1,0 +1,6 @@
+TQI Desafio Bootcamp Fullstack Developer
+
+Programa destinado ao controle de compras, vendas e estoque de uma livraria.
+
+Projeto desenvolvido em Java no back-end, JavaScript e ReactJs no front-end.
+Teste unitário desenvolvido com Postman.
